@@ -1,0 +1,52 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="@SeMBsJ}Z_w{O4k(A^S,">playerImg</variable><variable id="nZ0(sd~(kC[ZVy%Zp6LX">fireImg</variable><variable id="Z-^QAGJC?G6X?qQEa-2Q">waterImg</variable></variables><block type="pxt-on-start" id="AENqu@,YV1B.Ob0e=?Ds" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id=":,ih/[ub2MXY)r,;fN+S"><field name="VAR" id="@SeMBsJ}Z_w{O4k(A^S,">playerImg</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="screen_image_picker" id="4GM!S[8?~S4UO1Uem746"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . f f . . . . . . . . . 
+. . . . . . . f f . . f . . . . 
+. . . . . f f f f f f f . . . . 
+. . . . . . . f f . . f . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+`</field></block></value><next><block type="variables_set" id="DZDKv8(beIcU8vji}snf"><field name="VAR" id="nZ0(sd~(kC[ZVy%Zp6LX">fireImg</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="screen_image_picker" id="(-3)Pn%Z-i.e!7f{pq9l"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . 2 2 . . . . . . . 
+. . . . . 2 2 2 2 2 2 2 . . . . 
+. . . . . 2 5 2 2 4 4 2 . . . . 
+. . . . 2 2 2 5 5 5 5 2 2 . . . 
+. . . . 2 4 4 5 5 5 4 5 2 . . . 
+. . . . 4 4 2 2 2 2 4 4 2 2 . . 
+. . . 2 4 4 5 5 5 2 5 4 5 2 . . 
+. . . 2 4 4 4 5 5 2 2 4 4 2 . . 
+. . . 2 4 4 4 4 5 4 2 2 4 2 . . 
+. . . 2 2 4 4 4 4 4 2 2 4 2 . . 
+. . . . 2 5 5 2 2 2 2 2 2 . . . 
+. . . . 2 2 5 5 2 5 2 2 4 . . . 
+`</field></block></value><next><block type="variables_set" id="RXY0-UPkxjN36m/,T]XG"><field name="VAR" id="Z-^QAGJC?G6X?qQEa-2Q">waterImg</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="screen_image_picker" id="d+oq*`yuSYgbQW|/J`ZO"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . 8 8 8 . . . . . . . 
+. . . . . . 8 6 6 8 8 . . . . . 
+. . . . . 8 6 6 6 6 8 8 . . . . 
+. . . . 8 8 6 6 6 6 6 8 . . . . 
+. . . . 8 8 6 6 6 6 8 8 . . . . 
+. . . . 8 8 6 9 9 6 6 6 8 . . . 
+. . . 8 8 6 6 9 9 9 9 6 8 8 . . 
+. . 8 8 6 6 9 9 9 9 9 6 6 8 . . 
+. . 8 6 6 6 9 8 8 9 6 6 6 8 . . 
+. . 8 8 8 6 9 8 9 9 6 6 8 8 . . 
+. . . 8 8 6 9 9 9 9 6 6 8 . . . 
+`</field></block></value><next><block type="gamesetbackgroundcolor" id="Wp73DQ3D$WE`9+18R$MF"><value name="color"><shadow type="colorindexpicker" id="=811qfp;qPxb.6[56rOc"><field name="index">12</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
